@@ -1,5 +1,4 @@
-- Hi.
-- My email: atomic.guan@gmail.com
+- Email: atomic.guan@gmail.com
 
 <!---
 GuannCc/GuannCc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
